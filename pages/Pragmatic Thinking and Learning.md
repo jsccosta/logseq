@@ -7,3 +7,5 @@
 		- what are coding patterns
 - Look into modes of acquiring expertise
 - Learn by watching and imitating
+	- first you imitate existing practice and then slowly assimilate the tacit knowledge and experience over time. Finally you’ll be
+	  in a position to go beyond imitation and innovate.
