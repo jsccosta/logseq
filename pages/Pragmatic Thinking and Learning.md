@@ -14,4 +14,7 @@
 - Keep a steady group with the same performers every week.
   You want the group to jell; rotating players in and out is
   counterproductive.
-- # Keep practicing in order to remain expert.
+# Keep practicing in order to remain expert.
+# Avoid formal methods if you need creativity, intuition, or
+inventiveness.
+-
