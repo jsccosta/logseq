@@ -1,4 +1,7 @@
 - Avoid copy paste coding
 - Know what you don’t know.
 	- This can be done by taking on challenges that you may not be familiar with
+- Intuition and pattern matching replace explicit knowledge
+	- practice coding patterns
+		- what are coding patterns
 -
