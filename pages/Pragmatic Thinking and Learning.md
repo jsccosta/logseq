@@ -1,3 +1,4 @@
 - Avoid copy paste coding
 - Know what you don’t know.
-	- This can be done by taking on
+	- This can be done by taking on challenges that you may not be familiar with
+-
