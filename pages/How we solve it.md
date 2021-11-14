@@ -1,3 +1,6 @@
 - The Process of Representation
 	- Finding the problem - recognizing that there is a problem to be solved
-	- Representing the problem - understanding the gap oto be crpossed
+	- Representing the problem - understanding the gap to be crossed
+	- Planning the solution - choosing a method for crossing the gap
+	- Evaluating the solution - Asking how good is the result, once the plan is carried out
+	- Consolidating gains - learning from the experi
