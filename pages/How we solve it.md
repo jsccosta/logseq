@@ -3,4 +3,4 @@
 	- Representing the problem - understanding the gap to be crossed
 	- Planning the solution - choosing a method for crossing the gap
 	- Evaluating the solution - Asking how good is the result, once the plan is carried out
-	- Consolidating gains - learning from the experi
+	- Consolidating gains - learning from the experience of solving
