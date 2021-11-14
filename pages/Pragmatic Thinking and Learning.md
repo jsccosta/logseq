@@ -1,8 +1,8 @@
 - Avoid copy paste coding
 - Know what you don’t know.
 	- This can be done by taking on challenges that you may not be familiar with
-		- practice needs
+		- practice needs to be challenging but doable
 - Intuition and pattern matching replace explicit knowledge
 	- practice coding patterns
 		- what are coding patterns
--
+- Look into modes of acquiring expertise
