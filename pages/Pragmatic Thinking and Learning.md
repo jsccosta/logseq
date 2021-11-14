@@ -15,6 +15,7 @@
   You want the group to jell; rotating players in and out is
   counterproductive.
 # Keep practicing in order to remain expert.
-# Avoid formal methods if you need creativity, intuition, or
-inventiveness.
+# Avoid formal methods if you need creativity, intuition, or inventiveness.
+# Learn the skill of learning.
+# Next actions
 -
