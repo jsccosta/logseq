@@ -1,0 +1,3 @@
+- Avoid copy paste coding
+- Know what you don’t know.
+	- This can be done by taking on
