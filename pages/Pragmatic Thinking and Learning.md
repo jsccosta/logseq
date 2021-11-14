@@ -6,3 +6,4 @@
 	- practice coding patterns
 		- what are coding patterns
 - Look into modes of acquiring expertise
+- Learn by watching and imitating
