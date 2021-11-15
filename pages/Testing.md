@@ -9,3 +9,8 @@
 	- Arrange: All the setup code to bring the system to the scenario the test aims to simulate. This might include instantiating the unit under test constructor, adding DB records, mocking/stubbing on objects and any other preparation code
 	- Act: Execute the unit under test. Usually 1 line of code
 	- Assert: Ensure that the received value satisfies the expectation. Usually 1 line of code
+- **Otherwise**: Not only do you spend hours understanding the main code, but what should have been the simplest part of the day (testing) stretches your brain
+-
+- /h2Describe expectations in a product language: use BDD-style assertions
+- white_check_mark Do: Coding your tests in a declarative-style allows the reader to get the grab instantly without spending even a single brain-CPU cycle. When you write imperative code that is packed with conditional logic, the reader is forced to exert more brain-CPU cycles. In that case, code the expectation in a human-like language, declarative BDD style using expect or should and not using custom code. If Chai & Jest doesn't include the desired assertion and it’s highly repeatable, consider extending Jest matcher (Jest) or writing a custom Chai plugin
+- x Otherwise: The team will write less tests and decorate the annoying ones with .skip()
