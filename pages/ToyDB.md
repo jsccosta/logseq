@@ -1,2 +1,2 @@
 - Built using Rust
--
+- This is a binary build
