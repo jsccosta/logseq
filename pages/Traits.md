@@ -1,0 +1,3 @@
+- A trait is a collection of methods defined for an unknown type: Self. They can access other methods declared in the same trait.
+- #rust
+-
