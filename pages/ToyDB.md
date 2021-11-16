@@ -10,3 +10,5 @@
 # Day 1
 ### rustfmt
 	- A tool for formatting Rust code according to style guidelines.
+- **Clippy**
+	- Linter for rust
