@@ -7,4 +7,6 @@
 	- Raft consensus engine: handles cluster coordination and state machine replication.
 	- SQL engine: parses, plans, and executes SQL statements for clients.
 -
--
+# Day 1
+### rustfmt
+	- A tool for formatting Rust code according to style guidelines.
