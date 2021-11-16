@@ -1,2 +1,2 @@
 - Built using Rust
--
+- Create a new Rust project cargo new hello-rust
