@@ -1,5 +1,5 @@
 - Care About Your Craft
-    Why spend your life developing software unless you care about doing it well?
+- Why spend your life developing software unless you care about doing it well?
     Think! About Your Work
     Turn off the autopilot and take control. Constantly critique and appraise your work.
     Provide Options, Don't Make Lame Excuses
