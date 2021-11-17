@@ -1,10 +1,10 @@
 - Care About Your Craft
-- Why spend your life developing software unless you care about doing it well?
-    Think! About Your Work
-    Turn off the autopilot and take control. Constantly critique and appraise your work.
-    Provide Options, Don't Make Lame Excuses
-    Instead of excuses, provide options. Don't say it can't be done; explain what can be done.
-    Don't Live with Broken Windows
+	- Why spend your life developing software unless you care about doing it well?
+- Think! About Your Work
+	- Turn off the autopilot and take control. Constantly critique and appraise your work.
+- Provide Options, Don't Make Lame Excuses
+- Instead of excuses, provide options. Don't say it can't be done; explain what can be done.
+- Don't Live with Broken Windows
     Fix bad designs, wrong decisions, and poor code when you see them.
     Be a Catalyst for Change
     You can't force change on people. Instead, show them how the future might be and help them participate in creating it.
