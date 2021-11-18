@@ -116,25 +116,35 @@
   collapsed:: true
 	- Exploit concurrency in your user's workflow.
 - Design Using Services
-  Design in terms of services – independent, concurrent objects behind well-defined, consistent interfaces.
+  collapsed:: true
+	- Design in terms of services – independent, concurrent objects behind well-defined, consistent interfaces.
 - Always Design for Concurrency
-  Allow for concurrency, and you'll design cleaner interfaces with fewer assumptions.
+  collapsed:: true
+	- Allow for concurrency, and you'll design cleaner interfaces with fewer assumptions.
 - Separate Views from Models
-  Gain flexibility at low cost by designing your application in terms of models and views.
+  collapsed:: true
+	- Gain flexibility at low cost by designing your application in terms of models and views.
 - Use Blackboards to Coordinate Workflow
-  Use blackboards to coordinate disparate facts and agents, while maintaining independence and isolation among participants.
+  collapsed:: true
+	- Use blackboards to coordinate disparate facts and agents, while maintaining independence and isolation among participants.
 - Don't Program by Coincidence
-  Rely only on reliable things. Beware of accidental complexity, and don't confuse a happy coincidence with a purposeful plan.
+  collapsed:: true
+	- Rely only on reliable things. Beware of accidental complexity, and don't confuse a happy coincidence with a purposeful plan.
 - Estimate the Order of Your Algorithms
-  Get a feel for how long things are likely to take before you write code.
+  collapsed:: true
+	- Get a feel for how long things are likely to take before you write code.
 - Test Your Estimates
-  Mathematical analysis of algorithms doesn't tell you everything. Try timing your code in its target environment.
+  collapsed:: true
+	- Mathematical analysis of algorithms doesn't tell you everything. Try timing your code in its target environment.
 - Refactor Early, Refactor Often
-  Just as you might weed and rearrange a garden, rewrite, rework, and re-architect code when it needs it. Fix the root of the problem.
+  collapsed:: true
+	- Just as you might weed and rearrange a garden, rewrite, rework, and re-architect code when it needs it. Fix the root of the problem.
 - Design to Test
-  Start thinking about testing before you write a line of code.
+  collapsed:: true
+	- Start thinking about testing before you write a line of code.
 - Test Your Software, or Your Users Will
-  Test ruthlessly. Don't make your users find bugs for you.
+  collapsed:: true
+	- Test ruthlessly. Don't make your users find bugs for you.
 - Don't Use Wizard Code You Don't Understand
   collapsed:: true
 	- Wizards can generate reams of code. Make sure you understand all of it before you incorporate it into your project.
