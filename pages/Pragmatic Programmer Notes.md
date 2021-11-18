@@ -104,28 +104,32 @@
   collapsed:: true
 	- Where possible, the routine or object that allocates a resource should be responsible for deallocating it.
 - Minimize Coupling Between Modules
-  Avoid coupling by writing "shy" code and applying the Law of Demeter.
+  collapsed:: true
+	- Avoid coupling by writing "shy" code and applying the Law of Demeter.
 - Configure, Don't Integrate
-  Implement technology choices for an application as configuration options, not through integration or engineering.
+  collapsed:: true
+	- Implement technology choices for an application as configuration options, not through integration or engineering.
 - Put Abstractions in Code, Details in Metadata
-  Program for the general case, and put the specifics outside the compiled code base.
+  collapsed:: true
+	- Program for the general case, and put the specifics outside the compiled code base.
 - Analyze Workflow to Improve Concurrency
-  Exploit concurrency in your user's workflow.
+  collapsed:: true
+	- Exploit concurrency in your user's workflow.
 - Design Using Services
   Design in terms of services – independent, concurrent objects behind well-defined, consistent interfaces.
-  Always Design for Concurrency
+- Always Design for Concurrency
   Allow for concurrency, and you'll design cleaner interfaces with fewer assumptions.
-  Separate Views from Models
+- Separate Views from Models
   Gain flexibility at low cost by designing your application in terms of models and views.
-  Use Blackboards to Coordinate Workflow
+- Use Blackboards to Coordinate Workflow
   Use blackboards to coordinate disparate facts and agents, while maintaining independence and isolation among participants.
-  Don't Program by Coincidence
+- Don't Program by Coincidence
   Rely only on reliable things. Beware of accidental complexity, and don't confuse a happy coincidence with a purposeful plan.
-  Estimate the Order of Your Algorithms
+- Estimate the Order of Your Algorithms
   Get a feel for how long things are likely to take before you write code.
-  Test Your Estimates
+- Test Your Estimates
   Mathematical analysis of algorithms doesn't tell you everything. Try timing your code in its target environment.
-  Refactor Early, Refactor Often
+- Refactor Early, Refactor Often
   Just as you might weed and rearrange a garden, rewrite, rework, and re-architect code when it needs it. Fix the root of the problem.
   Design to Test
   Start thinking about testing before you write a line of code.
