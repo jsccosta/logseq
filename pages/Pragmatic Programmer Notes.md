@@ -154,39 +154,31 @@
 	- Refactor similar functions.
 - Things to prototype
 	- Architecture
-	  New functionality in an existing system
-	  Structure or contents of external data
-	  Third-party tools or components
-	  Performance issues
-	  User interface design
+	- New functionality in an existing system
+	- Structure or contents of external data
+	- Third-party tools or components
+	- Performance issues
+	- User interface design
 - Architectural Questions
-- Are responsibilities well defined?
-  Are the collaborations well defined?
-  Is coupling minimized?
-  Can you identify potential duplication?
-  Are interface definitions and constraints acceptable?
-  Can modules access needed data – when needed?
+	- Are responsibilities well defined?
+	- Are the collaborations well defined?
+	- Is coupling minimized?
+	- Can you identify potential duplication?
+	- Are interface definitions and constraints acceptable?
+	- Can modules access needed data – when needed?
 - Debugging Checklist
-- Is the problem being reported a direct result of the underlying bug, or merely a symptom?
-  Is the bug really in the compiler? Is it in the OS? Or is it in your code?
-  If you explained this problem in detail to a coworker, what would you say?
-  If the suspect code passes its unit tests, are the tests complete enough? What happens if you run the unit test with this data?
-  Do the conditions that caused this bug exist anywhere else in the system?
+	- Is the problem being reported a direct result of the underlying bug, or merely a symptom?
+	- Is the bug really in the compiler? Is it in the OS? Or is it in your code?
+	- If you explained this problem in detail to a coworker, what would you say?
+	- If the suspect code passes its unit tests, are the tests complete enough? What happens if you run the unit test with this data?
+	  Do the conditions that caused this bug exist anywhere else in the system?
 - Law of Demeter for Functions
-- An object's method should call only methods belonging to:
-- Itself
-  Any parameters passed in
-  Objects it creates
-  Component objects
+	- An object's method should call only methods belonging to:
+		- Itself
+		- Any parameters passed in
+		- Objects it creates
+		- Component objects
 - How to Program Deliberately
-- Stay aware of what you're doing.
-  Don't code blindfolded.
-  Proceed from a plan.
-  Rely only on reliable things.
-  Document your assumptions.
-  Test assumptions as well as code.
-  Prioritize your effort.
-  Don't be a slave to history.
 - When to Refactor
 - You discover a violation of the DRY principle.
   You find things that could be more orthogonal.
