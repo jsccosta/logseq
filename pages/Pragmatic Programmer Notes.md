@@ -1,18 +1,26 @@
 - Care About Your Craft
+  collapsed:: true
 	- Why spend your life developing software unless you care about doing it well?
 - Think! About Your Work
+  collapsed:: true
 	- Turn off the autopilot and take control. Constantly critique and appraise your work.
 - Provide Options, Don't Make Lame Excuses
+  collapsed:: true
 	- Instead of excuses, provide options. Don't say it can't be done; explain what can be done.
 - Don't Live with Broken Windows
+  collapsed:: true
 	- Fix bad designs, wrong decisions, and poor code when you see them.
 - Be a Catalyst for Change
+  collapsed:: true
 	- You can't force change on people. Instead, show them how the future might be and help them participate in creating it.
 - Remember the Big Picture
+  collapsed:: true
 	- Don't get so engrossed in the details that you forget to check what's happening around you.
 - Make Quality a Requirements Issue
+  collapsed:: true
 	- Involve your users in determining the project's real quality requirements.
 - Invest Regularly in Your Knowledge Portfolio
+  collapsed:: true
 	- Make learning a habit.
 - Critically Analyze What You Read and Hear
 	- Don't be swayed by vendors, media hype, or dogma. Analyze information in terms of you and your project.
@@ -45,19 +53,19 @@
 - Always Use Source Code Control
 	- Source code control is a time machine for your work – you can go back.
 - Fix the Problem, Not the Blame
-  It doesn't really matter whether the bug is your fault or someone else's – it is still your problem, and it still needs to be fixed.
+	- It doesn't really matter whether the bug is your fault or someone else's – it is still your problem, and it still needs to be fixed.
 - Don't Panic When Debugging
-  Take a deep breath and THINK! about what could be causing the bug.
-  "select" Isn't Broken.
-- It is rare to find a bug in the OS or the compiler, or even a third-party product or library. The bug is most likely in the application.
+	- Take a deep breath and THINK! about what could be causing the bug
+- "select" Isn't Broken.
+	- It is rare to find a bug in the OS or the compiler, or even a third-party product or library. The bug is most likely in the application.
 - Don't Assume It – Prove It
-  Prove your assumptions in the actual environment – with real data and boundary conditions.
+	- Prove your assumptions in the actual environment – with real data and boundary conditions.
 - Learn a Text Manipulation Language.
-  You spend a large part of each day working with text. Why not have the computer do some of it for you?
+	- You spend a large part of each day working with text. Why not have the computer do some of it for you?
 - Write Code That Writes Code
-  Code generators increase your productivity and help avoid duplication.
+	- Code generators increase your productivity and help avoid duplication.
 - You Can't Write Perfect Software
-  Software can't be perfect. Protect your code and users from the inevitable errors.
+	- Software can't be perfect. Protect your code and users from the inevitable errors.
 - Design with Contracts
   Use contracts to document and verify that code does no more and no less than it claims to do.
 - Crash Early
@@ -139,6 +147,7 @@
   Sign Your Work
   Craftsmen of an earlier age were proud to sign their work. You should be, too.
 - Languages To Learn
+  collapsed:: true
 	- Tired of C, C++, and Java? Try CLOS, Dylan, Eiffel, Objective C, Prolog, Smalltalk, or TOM. Each of these languages has different capabilities and a different "flavor." Try a small project at home using one or more of them.
 - The WISDOM Acrostic
   collapsed:: true
