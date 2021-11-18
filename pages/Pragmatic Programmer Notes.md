@@ -74,9 +74,9 @@
   Implement technology choices for an application as configuration options, not through integration or engineering.
 - Put Abstractions in Code, Details in Metadata
   Program for the general case, and put the specifics outside the compiled code base.
-  Analyze Workflow to Improve Concurrency
+- Analyze Workflow to Improve Concurrency
   Exploit concurrency in your user's workflow.
-  Design Using Services
+- Design Using Services
   Design in terms of services – independent, concurrent objects behind well-defined, consistent interfaces.
   Always Design for Concurrency
   Allow for concurrency, and you'll design cleaner interfaces with fewer assumptions.
@@ -139,14 +139,14 @@
   Sign Your Work
   Craftsmen of an earlier age were proud to sign their work. You should be, too.
 - Languages To Learn
-- Tired of C, C++, and Java? Try CLOS, Dylan, Eiffel, Objective C, Prolog, Smalltalk, or TOM. Each of these languages has different capabilities and a different "flavor." Try a small project at home using one or more of them.
+	- Tired of C, C++, and Java? Try CLOS, Dylan, Eiffel, Objective C, Prolog, Smalltalk, or TOM. Each of these languages has different capabilities and a different "flavor." Try a small project at home using one or more of them.
 - The WISDOM Acrostic
-- What do you want them to learn?
-  What is their interest in what you've got to say?
-  How sophisticated are they?
-  How much detail do they want?
-  Whom do you want to own the information?
-  How can you motivate them to listen to you?
+	- **W**hat do you want them to learn?
+	  What is their **i**nterest in what you've got to say?
+	  How **s**ophisticated are they?
+	  How much **d**etail do they want?
+	  Whom do you want to **o**wn the information?
+	  How can you **m**otivate them to listen to you?
 - How to Maintain Orthogonality
 - Design independent, well-defined components.
   Keep your code decoupled.
