@@ -20,3 +20,27 @@
 	- There's no point in having great ideas if you don't communicate them effectively.
 - DRY – Don't Repeat Yourself
 	- Every piece of knowledge must have a single, unambiguous, authoritative representation within a system.
+- Make It Easy to Reuse
+  If it's easy to reuse, people will. Create an environment that supports reuse.
+- Eliminate Effects Between Unrelated Things
+  Design components that are self-contained. independent, and have a single, well-defined purpose.
+- There Are No Final Decisions
+  No decision is cast in stone. Instead, consider each as being written in the sand at the beach, and plan for change.
+- Use Tracer Bullets to Find the Target
+  Tracer bullets let you home in on your target by trying things and seeing how close they land.
+- Prototype to Learn
+  Prototyping is a learning experience. Its value lies not in the code you produce, but in the lessons you learn.
+- Program Close to the Problem Domain
+  Design and code in your user's language.
+- Estimate to Avoid Surprises
+  Estimate before you start. You'll spot potential problems up front.
+- Iterate the Schedule with the Code
+  Use experience you gain as you implement to refine the project time scales.
+  Keep Knowledge in Plain Text
+  Plain text won't become obsolete. It helps leverage your work and simplifies debugging and testing.
+  Use the Power of Command Shells
+  Use the shell when graphical user interfaces don't cut it.
+  Use a Single Editor Well
+  The editor should be an extension of your hand; make sure your editor is configurable, extensible, and programmable.
+  Always Use Source Code Control
+  Source code control is a time machine for your work – you can go back.
