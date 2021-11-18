@@ -136,37 +136,53 @@
 - Test Your Software, or Your Users Will
   Test ruthlessly. Don't make your users find bugs for you.
 - Don't Use Wizard Code You Don't Understand
-  Wizards can generate reams of code. Make sure you understand all of it before you incorporate it into your project.
+  collapsed:: true
+	- Wizards can generate reams of code. Make sure you understand all of it before you incorporate it into your project.
 - Don't Gather Requirements – Dig for Them
-  Requirements rarely lie on the surface. They're buried deep beneath layers of assumptions, misconceptions, and politics.
+  collapsed:: true
+	- Requirements rarely lie on the surface. They're buried deep beneath layers of assumptions, misconceptions, and politics.
 - Work With a User to Think Like a User
-  It's the best way to gain insight into how the system will really be used.
+  collapsed:: true
+	- It's the best way to gain insight into how the system will really be used.
 - Abstractions Live Longer than Details
-  Invest in the abstraction, not the implementation. Abstractions can survive the barrage of changes from different implementations and new technologies.
+  collapsed:: true
+	- Invest in the abstraction, not the implementation. Abstractions can survive the barrage of changes from different implementations and new technologies.
 - Use a Project Glossary
-  Create and maintain a single source of all the specific terms and vocabulary for a project.
+  collapsed:: true
+	- Create and maintain a single source of all the specific terms and vocabulary for a project.
 - Don't Think Outside the Box – Find the Box
-  When faced with an impossible problem, identify the real constraints. Ask yourself: "Does it have to be done this way? Does it have to be done at all?"
+  collapsed:: true
+	- When faced with an impossible problem, identify the real constraints. Ask yourself: "Does it have to be done this way? Does it have to be done at all?"
 - Start When You're Ready.
-  You've been building experience all your life. Don't ignore niggling doubts.
+  collapsed:: true
+	- You've been building experience all your life. Don't ignore niggling doubts.
 - Some Things Are Better Done than Described
-  Don't fall into the specification spiral – at some point you need to start coding.
+  collapsed:: true
+	- Don't fall into the specification spiral – at some point you need to start coding.
 - Don't Be a Slave to Formal Methods.
-  Don't blindly adopt any technique without putting it into the context of your development practices and capabilities.
+  collapsed:: true
+	- Don't blindly adopt any technique without putting it into the context of your development practices and capabilities.
 - Costly Tools Don't Produce Better Designs
-  Beware of vendor hype, industry dogma, and the aura of the price tag. Judge tools on their merits.
+  collapsed:: true
+	- Beware of vendor hype, industry dogma, and the aura of the price tag. Judge tools on their merits.
 - Organize Teams Around Functionality
-  Don't separate designers from coders, testers from data modelers. Build teams the way you build code.
+  collapsed:: true
+	- Don't separate designers from coders, testers from data modelers. Build teams the way you build code.
 - Don't Use Manual Procedures
-  A shell script or batch file will execute the same instructions, in the same order, time after time.
+  collapsed:: true
+	- A shell script or batch file will execute the same instructions, in the same order, time after time.
 - Test Early. Test Often. Test Automatically
-  Tests that run with every build are much more effective than test plans that sit on a shelf.
+  collapsed:: true
+	- Tests that run with every build are much more effective than test plans that sit on a shelf.
 - Coding Ain't Done 'Til All the Tests Run
-  'Nuff said.
+  collapsed:: true
+	- 'Nuff said.
 - Use Saboteurs to Test Your Testing
-  Introduce bugs on purpose in a separate copy of the source to verify that testing will catch them.
+  collapsed:: true
+	- Introduce bugs on purpose in a separate copy of the source to verify that testing will catch them.
 - Test State Coverage, Not Code Coverage
-  Identify and test significant program states. Just testing lines of code isn't enough.
+  collapsed:: true
+	- Identify and test significant program states. Just testing lines of code isn't enough.
 - Find Bugs Once
   collapsed:: true
 	- Once a human tester finds a bug, it should be the last time a human tester finds that bug. Automatic tests should check for it from then on.
