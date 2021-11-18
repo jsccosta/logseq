@@ -42,4 +42,5 @@
 	- Use the shell when graphical user interfaces don't cut it.
 - Use a Single Editor Well
 	- The editor should be an extension of your hand; make sure your editor is configurable, extensible, and programmable.
-- Always Use Source Code ControlSource code control is a time machine for your work – you can go back.
+- Always Use Source Code Control
+	- Source code control is a time machine for your work – you can go back.
