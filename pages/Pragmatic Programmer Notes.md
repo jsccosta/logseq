@@ -54,25 +54,25 @@
   Prove your assumptions in the actual environment – with real data and boundary conditions.
 - Learn a Text Manipulation Language.
   You spend a large part of each day working with text. Why not have the computer do some of it for you?
-  Write Code That Writes Code
+- Write Code That Writes Code
   Code generators increase your productivity and help avoid duplication.
-  You Can't Write Perfect Software
+- You Can't Write Perfect Software
   Software can't be perfect. Protect your code and users from the inevitable errors.
-  Design with Contracts
+- Design with Contracts
   Use contracts to document and verify that code does no more and no less than it claims to do.
-  Crash Early
+- Crash Early
   A dead program normally does a lot less damage than a crippled one.
-  Use Assertions to Prevent the Impossible
+- Use Assertions to Prevent the Impossible
   Assertions validate your assumptions. Use them to protect your code from an uncertain world.
-  Use Exceptions for Exceptional Problems
+- Use Exceptions for Exceptional Problems
   Exceptions can suffer from all the readability and maintainability problems of classic spaghetti code. Reserve exceptions for exceptional things.
-  Finish What You Start
+- Finish What You Start
   Where possible, the routine or object that allocates a resource should be responsible for deallocating it.
-  Minimize Coupling Between Modules
+- Minimize Coupling Between Modules
   Avoid coupling by writing "shy" code and applying the Law of Demeter.
-  Configure, Don't Integrate
+- Configure, Don't Integrate
   Implement technology choices for an application as configuration options, not through integration or engineering.
-  Put Abstractions in Code, Details in Metadata
+- Put Abstractions in Code, Details in Metadata
   Program for the general case, and put the specifics outside the compiled code base.
   Analyze Workflow to Improve Concurrency
   Exploit concurrency in your user's workflow.
