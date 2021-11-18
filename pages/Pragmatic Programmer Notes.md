@@ -142,23 +142,23 @@
 	- Tired of C, C++, and Java? Try CLOS, Dylan, Eiffel, Objective C, Prolog, Smalltalk, or TOM. Each of these languages has different capabilities and a different "flavor." Try a small project at home using one or more of them.
 - The WISDOM Acrostic
 	- **W**hat do you want them to learn?
-	  What is their **i**nterest in what you've got to say?
-	  How **s**ophisticated are they?
-	  How much **d**etail do they want?
-	  Whom do you want to **o**wn the information?
-	  How can you **m**otivate them to listen to you?
+	- What is their **i**nterest in what you've got to say?
+	- How **s**ophisticated are they?
+	- How much **d**etail do they want?
+	- Whom do you want to **o**wn the information?
+	- How can you **m**otivate them to listen to you?
 - How to Maintain Orthogonality
-- Design independent, well-defined components.
-  Keep your code decoupled.
-  Avoid global data.
-  Refactor similar functions.
+	- Design independent, well-defined components.
+	- Keep your code decoupled.
+	- Avoid global data.
+	- Refactor similar functions.
 - Things to prototype
-- Architecture
-  New functionality in an existing system
-  Structure or contents of external data
-  Third-party tools or components
-  Performance issues
-  User interface design
+	- Architecture
+	  New functionality in an existing system
+	  Structure or contents of external data
+	  Third-party tools or components
+	  Performance issues
+	  User interface design
 - Architectural Questions
 - Are responsibilities well defined?
   Are the collaborations well defined?
