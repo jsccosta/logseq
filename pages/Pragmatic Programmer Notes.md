@@ -131,29 +131,29 @@
   Mathematical analysis of algorithms doesn't tell you everything. Try timing your code in its target environment.
 - Refactor Early, Refactor Often
   Just as you might weed and rearrange a garden, rewrite, rework, and re-architect code when it needs it. Fix the root of the problem.
-  Design to Test
+- Design to Test
   Start thinking about testing before you write a line of code.
-  Test Your Software, or Your Users Will
+- Test Your Software, or Your Users Will
   Test ruthlessly. Don't make your users find bugs for you.
-  Don't Use Wizard Code You Don't Understand
+- Don't Use Wizard Code You Don't Understand
   Wizards can generate reams of code. Make sure you understand all of it before you incorporate it into your project.
-  Don't Gather Requirements – Dig for Them
+- Don't Gather Requirements – Dig for Them
   Requirements rarely lie on the surface. They're buried deep beneath layers of assumptions, misconceptions, and politics.
-  Work With a User to Think Like a User
+- Work With a User to Think Like a User
   It's the best way to gain insight into how the system will really be used.
-  Abstractions Live Longer than Details
+- Abstractions Live Longer than Details
   Invest in the abstraction, not the implementation. Abstractions can survive the barrage of changes from different implementations and new technologies.
-  Use a Project Glossary
+- Use a Project Glossary
   Create and maintain a single source of all the specific terms and vocabulary for a project.
-  Don't Think Outside the Box – Find the Box
+- Don't Think Outside the Box – Find the Box
   When faced with an impossible problem, identify the real constraints. Ask yourself: "Does it have to be done this way? Does it have to be done at all?"
-  Start When You're Ready.
+- Start When You're Ready.
   You've been building experience all your life. Don't ignore niggling doubts.
-  Some Things Are Better Done than Described
+- Some Things Are Better Done than Described
   Don't fall into the specification spiral – at some point you need to start coding.
-  Don't Be a Slave to Formal Methods.
+- Don't Be a Slave to Formal Methods.
   Don't blindly adopt any technique without putting it into the context of your development practices and capabilities.
-  Costly Tools Don't Produce Better Designs
+- Costly Tools Don't Produce Better Designs
   Beware of vendor hype, industry dogma, and the aura of the price tag. Judge tools on their merits.
   Organize Teams Around Functionality
   Don't separate designers from coders, testers from data modelers. Build teams the way you build code.
