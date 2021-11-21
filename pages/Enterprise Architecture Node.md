@@ -1,0 +1,5 @@
+- Four principles when programming
+	- Nouns - Data Structures
+	- Verbs - Functions
+	- Decisions - Iterators
+	- Iterators
